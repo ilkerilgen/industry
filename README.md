@@ -2,7 +2,8 @@
 
 | Şirket Adı       | Şehir    | Web Adresi|
 |------------------|----------|--------------------------|
-| Ada Dijital Ajans | İstanbul | http://ada.agency      |     
+| Ada Dijital Ajans | İstanbul | http://ada.agency      |   
+| Axent Media | İzmir | http://axentmedia.com/      |
 | Barcin.com | İstanbul | http://barcin.com      |                                                                                                            
 | Düğün.com | İstanbul | http://dugun.com      |         
 | Efabrika | İstanbul | http://efabrika.com      |     
@@ -22,6 +23,7 @@
 | Sony | İstanbul | http://sony.com.tr      |                                                                                    
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
 | Prisync | İstanbul | http://prisync.com      |
+| Riscsys ( Risc Systems) | İzmir | http://riscsys.com      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
 | UseInsider | İstanbul | http://insider.com      |                                                                                                                                | Vidobu.com | İstanbul | http://vidobu.com      |                                                                                                              
 | Vivense.com | İstanbul | http://vivense.com      |                                                                                                                                                                                                                            
